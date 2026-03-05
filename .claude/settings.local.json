@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(source:*)",
+      "Bash(claude:*)",
+      "Bash(powershell.exe:*)",
+      "Bash(gh auth:*)",
+      "WebFetch(domain:til.simonwillison.net)"
+    ]
+  }
+}
